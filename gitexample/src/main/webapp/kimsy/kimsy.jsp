@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	안녕하세요~~
+	안녕하세요 김서영입니다
+	<a href="../index.jsp">메인으로</a>
 </body>
 </html>
