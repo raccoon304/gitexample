@@ -9,7 +9,7 @@
 <body>
 	<h3>안녕하세요~안태훈입니다.</h3>
 	<div>
-		<a href="/index.jsp">메인페이지 돌아가기</a>
+		<a href="../index.jsp">메인페이지 돌아가기</a>
 	</div>
 	
 </body>
